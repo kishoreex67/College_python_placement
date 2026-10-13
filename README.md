@@ -1,7 +1,8 @@
 🎯 Placement Training
 📅 Daily Practice Notebooks
+
 Day 1
-Click Here
+[Click Here](Day1.ipynb)
 
 Day 2
 Click Here
