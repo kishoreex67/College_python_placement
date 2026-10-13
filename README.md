@@ -5,7 +5,7 @@ Day 1
 [Click Here](Day1.ipynb)
 
 Day 2
-Click Here
+[Click Here](Day2.ipynb)
 
 Day 3
 Click Here
