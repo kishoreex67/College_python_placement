@@ -24,6 +24,14 @@ Day 7
 
 Day 8
 [Click Here](Day8.ipynb)
+
+Day 9
+[Click Here](Day9.ipynb)
+
+Day 10
+[Click Here](Day10.ipynb)
+
+
 🚀 Objective
 Improve coding skills.
 Practice problem-solving.
