@@ -8,7 +8,7 @@ Day 2
 [Click Here](Day2.ipynb)
 
 Day 3
-[Click Here](day3.ipynb)
+[Click Here](Day3.ipynb)
 
 Day 4
 [Click Here](Day4.ipynb)
