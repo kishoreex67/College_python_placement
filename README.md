@@ -28,9 +28,6 @@ Day 8
 Day 9
 [Click Here](Day9.ipynb)
 
-Day 10
-[Click Here](Day10.ipynb)
-
 
 🚀 Objective
 Improve coding skills.
